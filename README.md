@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/719vk8qmgxta9kpu?svg=true)](https://ci.appveyor.com/project/Sashkasam/nickname-dz)
 # Домашнее задание к лекции «Регулярные выражения»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
